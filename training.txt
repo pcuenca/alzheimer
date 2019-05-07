@@ -1,0 +1,7 @@
+* ULMFiT, RAW text (with annotations), full paragraphs
+  Accuracy: 80.91%
+  I had accuracies of ~90% while training using larger batch sizes, but I run out of memory and could not reproduce the results with smaller batches.
+  
+* ULMFiT, clean text, full paragraphs
+  Accuracy: 82.73%
+  We need to fully review the fine-tuning.
