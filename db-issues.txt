@@ -1,0 +1,16 @@
+Dementia Cookie Database Issues
+
+- Dementia 066-0: time marks are off. Excluded from the extracted 'par' sets.
+- Dementia 291-2: .cha file is wrong (does not seem to belong to the cookie set). The audio file is correct. Excluded from the extracted 'par' sets.
+
+- The audio format is different for the files listed below. They are encoded at 16 kbps, 8 KHz instead of 128 kbps, 44.1 KHz. Ignored for now.
+  357-0.mp3
+  527-1.mp3
+  528-0.mp3
+  539-0.mp3
+  551-0.mp3
+  563-0.mp3
+  578-0.mp3
+
+We should also ignore the corresponding .cha files when we perform NLP+audio training.
+
