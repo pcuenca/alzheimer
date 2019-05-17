@@ -44,8 +44,24 @@ The iOS App displays the Cookie Theft image and invites users to describe it. Th
 - Evaluate sensible audio data augmentation transformations. Deal with recordings with high length variance.
 - Disseminate results to increase awareness and try to set up pilot tests in controlled environments. These could help in the data acquisiton front.
 
+## References
+
+Becker, J. T., Boller, F., Lopez, O. L., Saxton, J., & McGonigle, K. L. (1994). The natural history of Alzheimer's disease: description of study cohort and accuracy of diagnosis. Archives of Neurology, 51(6), 585-594.
+Devlin, J., Chang, M. W., Lee, K., & Toutanova, K. (2018). Bert: Pre-training of deep bidirectional transformers for language understanding. arXiv    preprint arXiv:1810.04805.
+Howard, J., & Ruder, S. (2018). Universal language model fine-tuning for text classification. arXiv preprint arXiv:1801.06146.
+Hernández-Domínguez, L., Ratté, S., Sierra-Martínez, G., & Roche-Bergua, A. (2018). Computer-based evaluation of Alzheimer’s disease and mild cognitive impairment patients during a picture description task. Alzheimer's & Dementia: Diagnosis, Assessment & Disease Monitoring, 10, 260-268.
+López-de-Ipiña, K., Alonso, J. B., Barroso, N., Faundez-Zanuy, M., Ecay, M., Solé-Casals, J., ... & Ezeiza, A. (2012, December). New approaches for Alzheimer’s disease diagnosis based on automatic spontaneous speech analysis and emotional temperature. In International Workshop on Ambient Assisted Living (pp. 407-414). Springer, Berlin, Heidelberg.
+Lopez-de-Ipina, K., Martinez-de-Lizarduy, U., Calvo, P. M., Mekyska, J., Beitia, B., Barroso, N., ... & Ecay-Torres, M. (2018). Advances on automatic speech analysis for early detection of Alzheimer disease: a non-linear multi-task approach. Current Alzheimer Research, 15(2), 139-148.
+MacWhinney, B. (2000). The CHILDES Project: Tools for Analyzing Talk. 3rd Edition. Mahwah, NJ: Lawrence Erlbaum Associates.
+Mirheidari, B., Blackburn, D., Reuber, M., Walker, T., & Christensen, H. (2016, September). Diagnosing people with dementia using automatic conversation analysis. In Proceedings of Interspeech (pp. 1220-1224). ISCA.
+Mirheidari, B., Blackburn, D., Walker, T., Venneri, A., Reuber, M., & Christensen, H. (2018). Detecting Signs of Dementia Using Word Vector Representations. Proc. Interspeech 2018, 1893-1897.
+Mirheidari, B., Blackburn, D., Walker, T., Reuber, M., & Christensen, H. (2019). Dementia detection using automatic analysis of conversations. Computer Speech & Language, 53, 65-79.
+Yancheva, M., Fraser, K., & Rudzicz, F. (2015). Using linguistic features longitudinally to predict clinical scores for Alzheimer’s disease and related dementias. In Proceedings of SLPAT 2015: 6th Workshop on Speech and Language Processing for Assistive Technologies (pp. 134-139).
+
+
 ## Participants
 
 - Daniel Amador.
 - Jesús Gómez.
 - Pedro Cuenca.
+
